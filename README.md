@@ -2,7 +2,7 @@
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack. Aquí se afianzará como se puede hacer un block de notas en JavaScript.
 
-En el que se realizará de manera práctica como hacer un block de notas con lo aprendido en el módulo, en el útilizamos el return, trabajamos un poco de HTML, el como se puede copiar las tareas por hacer, en el hicimos que los botones de Todos, Pendientes, Completados y Borrar completadas funcionaran, también trabajamos con la array, trabajamos con babel, webpack, css, node y muchas más.
+En el se realizará de manera práctica como hacer un block de notas con lo aprendido en el módulo, en el útilizamos el return, trabajamos un poco de HTML, el como se puede copiar las tareas por hacer, en el hicimos que los botones de Todos, Pendientes, Completados y Borrar completadas funcionaran, también trabajamos con la array, trabajamos con babel, webpack, css, node y muchas más.
 
 ## Imagen de node_modules
 ![Imagen1](https://user-images.githubusercontent.com/106271910/187552692-75908539-2940-410b-9752-33078678f55b.png)
