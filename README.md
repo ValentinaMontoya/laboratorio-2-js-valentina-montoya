@@ -1,4 +1,4 @@
-# laboratorio_2_js_valentina_montoya
+# Laboratorio_2_js_valentina_montoya
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack. Aquí se afianzará como se puede hacer un block de notas en JavaScript.
 
